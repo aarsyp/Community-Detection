@@ -1,6 +1,12 @@
 # Community Detection in the Twitter Network of the U.S. Congress using the Louvain Algorithm
 
-By: Armand Aryasatya Prakarsa (armand.arsap@gmail.com) and Team!
+By: 
+
+Armand Aryasatya Prakarsa (armand.arsap@gmail.com)
+
+Abror Muhammad Hazim (abrormhazim@gmail.com)
+
+Ikhwan Wahyudin
 
 This project was conducted as part of the Social Media Analytics course to analyze community structures within a Twitter interaction network. Specifically, we examined how members of the U.S. Congress engage with one another through retweets, mentions, and replies. The objective was to identify clusters of highly connected individuals and understand their interaction patterns using Social Network Analysis (SNA).
 
