@@ -51,6 +51,6 @@ Network Influence Analysis:
 - Insights into partisan clustering & digital political discourse.
 
 # Dataset
-![image alt](https://github.com/aarsyp/Community-Detection/blob/main/Community%20Detection%20Dataset.png?raw=true)
+![Image](https://github.com/user-attachments/assets/9f5d0ef5-04e5-4fd8-b08a-bc5e3a818adf)
 
 This study uses the “Twitter Interaction Network for the US Congress” dataset, downloaded from the Standford Network Analysis Project (SNAP). This dataset consists of 475 nodes (congressmen) and 13,289 interactions (edges) covering three main types of interactions, namely retweets, mentions, and quotes, taken from the official Twitter accounts of senators and representatives.
